@@ -18,10 +18,11 @@ Pay link is a simple interface that provides pay-link functionality.
 1. Clone the repository:
    ```sh
    git clone https://github.com/PayTechUz/shop-backend.git
+   && cd shop-backend
    ```
 2. Create a virtual environment and activate it:
    ```sh
-   pip3 install virtualenv
+   pip3 install virtualenv &&
    virtualenv venv
    ```
   - For Windows:
